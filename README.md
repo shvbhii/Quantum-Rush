@@ -2,8 +2,11 @@
 
 Welcome to **Quantum Rush**, a fast-paced, futuristic car reflex game built with React and modern web technologies. Players must overcome a series of dynamic hurdles by typing key sequences against the clock. This project was built as part of my **#30DaysOfVibeCoding** challenge, where I build and ship a new web project every single day.
 
-[![Vercel Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://demo.vercel.app) 
-[![Project Status]()]()
+[![Vercel Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/shvbhis-projects/quantum-rush) 
+
+![Project Status](./public/Screenshot%202025-07-28%20232534.png)
+![Project Status](./public/Screenshot%202025-07-28%20232939.png)
+![Project Status](./public/Screenshot%202025-07-28%20233145.png)
 
  
 
@@ -118,12 +121,9 @@ Open [http://localhost:5173](http://localhost:5173) (or the port shown in your t
 
 ## 💡 Project Philosophy: Vibe Coding ⚡️
 
-This project was built using the "Vibe Coding" approach. It's a creative workflow where AI tools (like ChatGPT) act as a pair programmer and collaborator. AI assisted in:
-
--   **Initial Scaffolding:** Generating the basic Vite + React + TailwindCSS project structure and configuration.
 -   **Component Logic:** Writing boilerplate and core logic for React components and state management with Zustand.
 -   **Problem-Solving:** Quickly identifying and fixing bugs, like the initial infinite re-render issue.
--   **Creative Enhancement:** Suggesting and implementing features like the progressive difficulty curve and providing code for complex CSS/animation effects.
+
 
 This method allows for a focus on the bigger picture—the "vibe," functionality, and user experience—while minimizing time spent on syntax and boilerplate, making rapid development for a 30-day challenge possible.
 
@@ -164,7 +164,7 @@ Don't forget to give the project a star! Thanks again!
 
 -   **LinkedIn:** [linkedin.com/in/shvbhi](https://www.linkedin.com/in/shvbhi)
 -   **GitHub:** [@shvbhii](https://github.com/shvbhii)
-)
+
 
 ---
 
